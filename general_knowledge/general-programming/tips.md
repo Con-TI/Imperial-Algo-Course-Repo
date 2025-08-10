@@ -3,20 +3,21 @@
 - List of resources:
     - Python: Python reference/docs online for the packages.
     - C++: The official C++ reference, or learncpp.com. Find some books by Bjarne Stroustrup.
-    - General concepts: 
-        - Youtube channels: 
-            - mCoding: for advanced Python concepts
-            - MikeShah: For learning C++ from scratch
-            - Core dumped, Byte Monk: for general CS
-            - CodingJesus: Random knowledge bites
-        - Platforms for programming courses:
-            - Udemy
-            - Coursera
+    - Youtube channels: 
+        - mCoding: for advanced Python concepts
+        - MikeShah: For learning C++ from scratch
+        - Core dumped, Byte Monk: for general CS
+        - CodingJesus: Random knowledge bites
+        - CS50 : Basic CS concepts
+    - Platforms for programming courses:
+        - Udemy
+        - Coursera
 
 ## Note on learning DSA:
 - To learn DSA, you can either try to go through a book, any should do or go through some online course.
 - The most important aspect of DSA would just be to practice and get familiar with implementing common algorithms and data structures. This can be through leetcode, hackerrank, etc. 
 - On top of this, knowing how certain built-in data structures, like Python's lists and dicts, work/are implemented under the hood (using hash functions, linked lists.) would be good in case these questions come up in interviews (primarily for SWE).
+- Sidenote: There is a class of algorithms which are classified as heuristic. This means they are not necessarily correct but based on logic arrive at an optimal enough solution. This is important to be familiar with since it underlies much of algorithmic trading.
 
 ## Some tips to getting better at scripting/coding:
 - Leetcode and other online coding platforms for technical assessments and interview questions (build up your pattern recognition and memorise important information regarding specific programming language versions)
