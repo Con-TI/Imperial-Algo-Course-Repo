@@ -1,13 +1,13 @@
 ## Sidenote:
-- All the files in the directories are not comprehensive notes. Each file simply consists of headers and subheaders which can be used as a guide/reference to see if you are proficient enough in Python to start working on deep dive projects and achieve a productive learning outcome. My advice would be to read documentation and write out your own explanations under each of the headers to make the best use of the material as it is all available there. 
+- All the files in the directories are not comprehensive notes. Each file simply consists of headers and subheaders which can be used as a guide/reference to see if you are proficient enough in Python to start working on deep dive projects and achieve a productive learning outcome. My advice would be to read available documentation and write out your own explanations under each of the headers to make the best use of the material as it is all available there. 
 - List of resources:
     - Python: Python reference/docs online for the packages.
-    - C++: The official C++ reference, or learncpp.com. Find some books by Bjarne Stroustrup.
+    - C++: The official C++ reference, or learncpp.com. Find some books by Bjarne Stroustrup. (No folder on this since there's way more to cover than python)
     - Youtube channels: 
         - mCoding: for advanced Python concepts
         - MikeShah: For learning C++ from scratch
         - Core dumped, Byte Monk: for general CS
-        - CodingJesus: Random knowledge bites
+        - CodingJesus: General knowledge
         - CS50 : Basic CS concepts
     - Platforms for programming courses:
         - Udemy
@@ -15,9 +15,12 @@
 
 ## Note on learning DSA:
 - To learn DSA, you can either try to go through a book, any should do or go through some online course.
-- The most important aspect of DSA would just be to practice and get familiar with implementing common algorithms and data structures. This can be through leetcode, hackerrank, etc. 
+- The most important aspect of DSA would just be to practice and get familiar with implementing common algorithms and data structures. This can be through Leetcode, Hackerrank, etc. 
 - On top of this, knowing how certain built-in data structures, like Python's lists and dicts, work/are implemented under the hood (using hash functions, linked lists.) would be good in case these questions come up in interviews (primarily for SWE).
 - Sidenote: There is a class of algorithms which are classified as heuristic. This means they are not necessarily correct but based on logic arrive at an optimal enough solution. This is important to be familiar with since it underlies much of algorithmic trading.
+
+# Notes on learning to manipulate data:
+- Do competitions and go on practice platforms to do pandas/polars/SQL questions.
 
 ## Some tips to getting better at scripting/coding:
 - Leetcode and other online coding platforms for technical assessments and interview questions (build up your pattern recognition and memorise important information regarding specific programming language versions)
